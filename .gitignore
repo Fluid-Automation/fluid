@@ -1,0 +1,71 @@
+#Folders
+
+/.metadata/
+**/Debug/*
+*/Cache/*
+.jxbrowser-data/*
+.jxbrowser-data/**
+.jxbrowser-data/Cache/*
+.jxbrowser-data/Cache/**
+*/.jxbrowser-data/Cache/*
+**/.jxbrowser-data/Cache/*
+**/Obj
+
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+*.pp
+*.d
+*.launch
+*.prefs
+*.opt
+*linkInfo.xml
+*.metadata
+*.plugins
+*.log
+*.DS_Store
+*.obj
+*.map
+*.out
+*.xml
+*.bin
+*.dep
+*.pbi
+*.xml
+*.log
+*.dat
+
+
+* metadata
+
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+
+
+
